@@ -359,7 +359,7 @@ TVNG,https://d27qq4sc9v1h7c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b7
 
 
 
-//精彩直播,#genre#
+精彩直播,#genre#
 
 纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 
