@@ -471,6 +471,33 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 延边新闻,https://live.ybtvyun.com/video/s10006-ff4eb5dba33d/index.m3u8
 延边汉语,https://live.ybtvyun.com/video/s10006-e9c6f9e4d53b/index.m3u8
 
+影视剧场,#genre#
+
+王晶导演,http://43.138.170.29:35455/huya/11602058
+酒染影视,http://maomao.kandiantv.cn/douyu1.php?id=7550220
+邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519
+吃米滴虫,http://maomao.kandiantv.cn/douyu1.php?id=315457
+古装神剧,http://maomao.kandiantv.cn/douyu1.php?id=338759
+音乐欣赏,http://maomao.kandiantv.cn/douyu1.php?id=3186217
+漫威影院,http://maomao.kandiantv.cn/douyu1.php?id=6140589
+童年阴影,http://maomao.kandiantv.cn/douyu1.php?id=2935323
+贝贝影视,http://maomao.kandiantv.cn/douyu1.php?id=431460
+舌尖美食,http://maomao.kandiantv.cn/douyu1.php?id=9650849
+圆子影视,http://maomao.kandiantv.cn/douyu1.php?id=6566658
+国产剧集,http://maomao.kandiantv.cn/douyu1.php?id=8157860
+1900影剧室,http://maomao.kandiantv.cn/douyu1.php?id=7796193
+刀刀影院,http://maomao.kandiantv.cn/douyu1.php?id=747764
+恐怖鬼怪,http://maomao.kandiantv.cn/douyu1.php?id=1165374
+可乐影视,http://maomao.kandiantv.cn/douyu1.php?id=20415
+下饭神剧,http://maomao.kandiantv.cn/douyu1.php?id=276200
+万合出品,http://maomao.kandiantv.cn/douyu1.php?id=9220456
+豆瓣高分,http://maomao.kandiantv.cn/douyu1.php?id=8770422
+凌儿影院,http://maomao.kandiantv.cn/douyu1.php?id=1377142
+经典剧集,http://maomao.kandiantv.cn/douyu1.php?id=6863367
+橙記港剧,http://maomao.kandiantv.cn/douyu1.php?id=4549169
+芊珏影视,http://maomao.kandiantv.cn/douyu1.php?id=8814650
+
+
 精彩直播,#genre#
 
 纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
