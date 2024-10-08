@@ -1,4 +1,4 @@
-央视,#genre#
+直播频道,#genre#
 
 CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 
@@ -38,10 +38,29 @@ CCTV-16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
+黑龙江卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001925/1.m3u8
+黑龙江卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009082/1.m3u8
+黑龙江卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000025203/1.m3u8
+黑龙江-都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+黑龙江-都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8
+黑龙江-农业·科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+黑龙江-少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+黑龙江-少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
+黑龙江-文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+黑龙江-文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
+黑龙江-影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+黑龙江-影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
 
-CETN1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+哈尔滨新闻频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
+哈尔滨新闻频道,http://stream.hrbtv.net/xwzh/sd/live.m3u8
+哈尔滨生活频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
+哈尔滨生活频道,http://stream.hrbtv.net/shpd/sd/live.m3u8
+哈尔滨影视频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
+哈尔滨影视频道,http://stream.hrbtv.net/yspd/sd/live.m3u8
+方正电视台,https://rmplive.hljtv.com/live/fangzheng.m3u8
 
-CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 
 
 //
@@ -116,7 +135,6 @@ CCTV-14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-14,http://gmxw.7766.org:808/hls/32/index.m3u8
 CCTV-15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 
-卫视,#genre#
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
 
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
@@ -437,30 +455,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 贵州卫视,http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8
 
-黑龙江频道,#genre#
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
-黑龙江卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001925/1.m3u8
-黑龙江卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009082/1.m3u8
-黑龙江卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000025203/1.m3u8
-黑龙江-都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-黑龙江-都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8
-黑龙江-农业·科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-黑龙江-少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-黑龙江-少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
-黑龙江-文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-黑龙江-文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
-黑龙江-影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-黑龙江-影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
 
-哈尔滨频道,#genre#
-哈尔滨新闻频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
-哈尔滨新闻频道,http://stream.hrbtv.net/xwzh/sd/live.m3u8
-哈尔滨生活频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-哈尔滨生活频道,http://stream.hrbtv.net/shpd/sd/live.m3u8
-哈尔滨影视频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
-哈尔滨影视频道,http://stream.hrbtv.net/yspd/sd/live.m3u8
-方正电视台,https://rmplive.hljtv.com/live/fangzheng.m3u8
 
 
 朝鲜族TV,#genre#
