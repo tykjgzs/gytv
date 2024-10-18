@@ -492,6 +492,18 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 橙記港剧,http://maomao.kandiantv.cn/douyu1.php?id=4549169
 芊珏影视,http://maomao.kandiantv.cn/douyu1.php?id=8814650
 
+斗鱼电影1,http://allinone.netsite.cc/douyu/747764
+斗鱼电影2,http://allinone.netsite.cc/douyu/6140589
+斗鱼电影3,http://allinone.netsite.cc/douyu/36337
+斗鱼电影4,http://allinone.netsite.cc/douyu/2436390
+斗鱼电影5,http://allinone.netsite.cc/douyu/323876
+华语电影1,http://allinone.netsite.cc/douyu/122402
+华语电影2,http://allinone.netsite.cc/douyu/85894
+榜单电影,http://allinone.netsite.cc/douyu/8770422
+欧美电影,http://allinone.netsite.cc/douyu/20415
+国内惊悚,http://allinone.netsite.cc/douyu/218859
+国外惊悚,http://allinone.netsite.cc/douyu/965
+
 
 精彩直播,#genre#
 
