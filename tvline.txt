@@ -502,7 +502,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 榜单电影,http://allinone.netsite.cc/douyu/8770422
 欧美电影,http://allinone.netsite.cc/douyu/20415
 国内惊悚,http://allinone.netsite.cc/douyu/218859
-国外惊悚,http://allinone.netsite.cc/douyu/965
+国外惊悚,http://allinone.netsite.cc/douyu/96577
 
 
 精彩直播,#genre#
