@@ -640,8 +640,10 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 三国演义,http://120.77.28.4:8648/yy.php?id=1354930932
 三国演义,http://120.77.28.4:8648/yy.php?id=1354936241
 三国演义,http://120.77.28.4:8648/huya.php?id=11602081
-三国演义,http://159.75.85.63:35455/yy/1354936241三国演义,https://lunbo.freetv.top/yy/1354936241
-三国演义,http://159.75.85.63:35455/yy/1354930932水浒传,http://cfss.cc/cdn/hy/26355860.m3u8
+三国演义,http://159.75.85.63:35455/yy/1354936241
+三国演义,https://lunbo.freetv.top/yy/1354936241
+三国演义,http://159.75.85.63:35455/yy/1354930932
+水浒传,http://cfss.cc/cdn/hy/26355860.m3u8
 水浒传,https://www.goodiptv.club/huya/26355860
 红楼梦,http://120.77.28.4:8648/yy.php?id=1382745084
 红楼梦,http://cfss.cc/cdn/hy/30080221.m3u8
