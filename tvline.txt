@@ -532,12 +532,9 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 韩国|EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
 韩国|EBSe,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
 韩国|KBC|SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-韩国|KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_tvbox6.com.m3u8
-韩国|KCTV 1,http://119.77.96.184:1935/chn21/chn21/chunklist_tvbox6.com.m3u8
 韩国|CJB|SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 韩国|MBC UHD,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 韩国|MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
-韩国|NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 韩国|TjB | SBS,http://1.245.74.5:1935/live/tv/.m3u8
 韩国|KBS LIVE,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 韩国|KBS NEWS,http://8.138.7.223/tv/korea.php?id=31
@@ -550,16 +547,8 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 韩国|CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
 韩国|Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩国|Job plus TV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-韩国|DUBAI ONE,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-韩国|TVN,http://www.mytvsuper.us.kg/live.php?id=tvn
-韩国|TVN1,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
-韩国|TVN2,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
-韩国|TVN3,https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?
-韩国|TVN4,http://210.210.155.35/dr9445/h/h20/index.m3u8#http://210.210.155.35:80/dr9445/h/h20/02.m3u8
-韩国|tvN5,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?韩国|tvN Movies,https://tvlatina.live:1936/8006/8006/playlist.m3u8
-韩国|TVN Global ,http://210.210.155.37/dr9445/h/h21/index.m3u8
-韩国|TVN asia,https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-韩国|TVNBN ,https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+
+
 
 名著经典,#genre#
 
