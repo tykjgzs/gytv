@@ -905,7 +905,6 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 埋堆堆19,https://www.goodiptv.club/huya/23728674
 
 动漫轮播,#genre#
-不良人,http://allinone.netsite.cc/huya/21059565
 不良人,http://cfss.cc/cdn/hy/21059565.m3u8
 不良人,https://www.goodiptv.club/huya/21059565
 超燃动漫,http://maomao.kandiantv.cn/douyu1.php?id=1174353
