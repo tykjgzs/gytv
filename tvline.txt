@@ -975,7 +975,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 经典动漫,http://zzy789.xyz/douyu1.php?id=9455567
 柯南1,http://159.75.85.63:35455/douyu/1783144
 柯南1,http://maomao.kandiantv.cn/douyu1.php?id=1783144
-柯南1,http://zzy789.xyz/douyu1.php?id=1783144
+柯南剧场版,http://zzy789.xyz/douyu1.php?id=1783144
 柯南2,http://allinone.netsite.cc/huya/30080236
 柯南2,http://cfss.cc/cdn/hy/30080236.m3u8
 柯南剧场版,http://159.75.85.63:35455/douyu/6484910
