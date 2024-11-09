@@ -542,45 +542,47 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边新闻,https://live.ybtvyun.com/video/s10006-ff4eb5dba33d/index.m3u8
 延边汉语,https://live.ybtvyun.com/video/s10006-e9c6f9e4d53b/index.m3u8
+EBS 兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+EBS 兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+EBS 兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+KBC(SBS 光州),http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
+KBC(SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+KYTV 韩国音乐,http://live.kytv.co.kr:8080/hls/stream.m3u8
+韩SBS,http://1.245.74.5:1935/live/tv/.m3u8
+韩SBS,http://1.245.74.5:1935/live/tv/chunklist_w1082057117.m3u8
+韩国|Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩国|BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-韩国|EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-韩国|EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-韩国|EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-韩国|EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-韩国|EBSi,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-韩国|EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-韩国|EBSe,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-韩国|KBC|SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 韩国|CJB|SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+韩国|CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+韩国|EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韩国|EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+韩国|EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩国|EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+韩国|EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩国|EBSe,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+韩国|EBSi,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+韩国|Job plus TV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+韩国|KBC|SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+韩国|KBS DRAMA,http://8.138.7.223/tv/korea.php?id=32
+韩国|KBS JOY,http://8.138.7.223/tv/korea.php?id=33
+韩国|KBS KIDS,http://8.138.7.223/tv/korea.php?id=36
+韩国|KBS LIVE,http://8.138.7.223/tv/korea.php?id=35
+韩国|KBS LIVE,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+韩国|KBS NEWS,http://8.138.7.223/tv/korea.php?id=31
+韩国|KBS STORY,http://8.138.7.223/tv/korea.php?id=34
+韩国|KBS WORLD,http://8.138.7.223/tv/korea.php?id=37
 韩国|MBC UHD,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 韩国|MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
 韩国|TjB | SBS,http://1.245.74.5:1935/live/tv/.m3u8
-韩国|KBS LIVE,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-韩国|CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
-韩国|Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-韩国|Job plus TV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 韩国EBSE频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-韩国EBS第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-韩国EBS第二频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-韩国EBS第二频道,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-韩国阿里郎WORLDworld,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-韩国-BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-KYTV 韩国音乐,http://live.kytv.co.kr:8080/hls/stream.m3u8
-KYTV 韩国音乐,http://live.kytv.co.kr:8080/hls/stream.m3u8
 韩国EBSE频道,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-EBS 兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-EBS 兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
-EBS 兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-EBS 兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-KBC(SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-KBC(SBS 光州),http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
-KBC(SBS 光州),http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
-韩SBS,http://1.245.74.5:1935/live/tv/.m3u8
-韩SBS,http://1.245.74.5:1935/live/tv/chunklist_w1082057117.m3u8
-
+韩国EBS第二频道,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩国EBS第二频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+韩国EBS第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+韩国阿里郎WORLDworld,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 名著经典,#genre#
 
