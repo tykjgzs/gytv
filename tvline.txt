@@ -63,7 +63,7 @@ CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 
 
 
-﻿CCTV-1,http://123.166.61.70:8003/hls/11/index.m3u8
+CCTV-1,﻿http://123.166.61.70:8003/hls/11/index.m3u8
 CCTV-2,http://123.166.61.70:8003/hls/12/index.m3u8
 CCTV-4,http://123.166.61.70:8003/hls/41/index.m3u8
 CCTV-7,http://123.166.61.70:8003/hls/42/index.m3u8
@@ -513,7 +513,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 
-//
+
 深圳卫视,http://39.135.135.27:80/wh7f454c46tw1896753811_1390968508/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 湖北卫视,http://39.134.65.8:80/wh7f454c46tw1729990388_847523881/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
 北京卫视,http://39.135.135.81:80/wh7f454c46tw1737839898_639983344/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
@@ -568,14 +568,7 @@ KYTV 韩国音乐,http://live.kytv.co.kr:8080/hls/stream.m3u8
 韩国|EBSi,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
 韩国|Job plus TV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 韩国|KBC|SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-韩国|KBS DRAMA,http://8.138.7.223/tv/korea.php?id=32
-韩国|KBS JOY,http://8.138.7.223/tv/korea.php?id=33
-韩国|KBS KIDS,http://8.138.7.223/tv/korea.php?id=36
-韩国|KBS LIVE,http://8.138.7.223/tv/korea.php?id=35
 韩国|KBS LIVE,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-韩国|KBS NEWS,http://8.138.7.223/tv/korea.php?id=31
-韩国|KBS STORY,http://8.138.7.223/tv/korea.php?id=34
-韩国|KBS WORLD,http://8.138.7.223/tv/korea.php?id=37
 韩国|MBC UHD,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 韩国|MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
 韩国|TjB | SBS,http://1.245.74.5:1935/live/tv/.m3u8
