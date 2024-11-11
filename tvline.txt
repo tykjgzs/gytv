@@ -881,7 +881,7 @@ KYTV 韩国音乐,http://live.kytv.co.kr:8080/hls/stream.m3u8
 记录你的王者峡谷生活,http://maomao.kandiantv.cn/douyu1.php?id=9360149
 经典动漫,http://maomao.kandiantv.cn/douyu1.php?id=9455567
 柯南剧场版,http://maomao.kandiantv.cn/douyu1.php?id=1783144
-柯南2,http://cfss.cc/cdn/hy/30080236.m3u8
+柯南剧场版二,http://cfss.cc/cdn/hy/30080236.m3u8
 柯南剧场版,http://maomao.kandiantv.cn/douyu1.php?id=6484910
 海绵宝宝,http://cfss.cc/cdn/hy/11352919.m3u8
 李世民,http://cfss.cc/cdn/hy/11336572.m3u8
