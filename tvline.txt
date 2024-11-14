@@ -1869,24 +1869,7 @@ KYTV 韩国音乐,http://live.kytv.co.kr:8080/hls/stream.m3u8
 橙記港剧,http://maomao.kandiantv.cn/douyu1.php?id=4549169
 芊珏影视,http://maomao.kandiantv.cn/douyu1.php?id=8814650
 
-埋堆堆,#genre#
-埋堆堆1,http://cfss.cc/cdn/hy/23749096.m3u8
-埋堆堆2,http://cfss.cc/cdn/hy/23735126.m3u8
-埋堆堆3,http://cfss.cc/cdn/hy/23865152.m3u8
-埋堆堆4,http://cfss.cc/cdn/hy/23903196.m3u8
-埋堆堆5,http://cfss.cc/cdn/hy/23740156.m3u8
-埋堆堆6,http://cfss.cc/cdn/hy/23728660.m3u8
-埋堆堆7,http://cfss.cc/cdn/hy/23865058.m3u8
-埋堆堆9,http://cfss.cc/cdn/hy/23865036.m3u8
-埋堆堆11,http://cfss.cc/cdn/hy/23863796.m3u8
-埋堆堆12,http://cfss.cc/cdn/hy/23749083.m3u8
-埋堆堆13,http://cfss.cc/cdn/hy/23824164.m3u8
-埋堆堆14,http://cfss.cc/cdn/hy/23863804.m3u8
-埋堆堆15,http://cfss.cc/cdn/hy/23865142.m3u8
-埋堆堆16,http://cfss.cc/cdn/hy/23903183.m3u8
-埋堆堆17,http://cfss.cc/cdn/hy/23903130.m3u8
-埋堆堆18,http://cfss.cc/cdn/hy/23734169.m3u8
-埋堆堆19,http://cfss.cc/cdn/hy/23728674.m3u8
+
 
 
 动漫轮播,#genre#
