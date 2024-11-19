@@ -1778,38 +1778,66 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边新闻,https://live.ybtvyun.com/video/s10006-ff4eb5dba33d/index.m3u8
 延边汉语,https://live.ybtvyun.com/video/s10006-e9c6f9e4d53b/index.m3u8
-EBS 兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-EBS 兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
-EBS 兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-KBC(SBS 光州),http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
-KBC(SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-KYTV 韩国音乐,http://live.kytv.co.kr:8080/hls/stream.m3u8
-韩SBS,http://1.245.74.5:1935/live/tv/.m3u8
-韩SBS,http://1.245.74.5:1935/live/tv/chunklist_w1082057117.m3u8
-韩国|Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-韩国|BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-韩国|CJB|SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-韩国|CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
-韩国|EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-韩国|EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-韩国|EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-韩国|EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-韩国|EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-韩国|EBSe,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-韩国|EBSi,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-韩国|Job plus TV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-韩国|KBC|SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-韩国|KBS LIVE,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-韩国|MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
-韩国|TjB | SBS,http://1.245.74.5:1935/live/tv/.m3u8
-韩国EBSE频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-韩国EBSE频道,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-韩国EBS第二频道,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-韩国EBS第二频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+﻿TJB(SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
+KCTV1,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+KCTV2,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8KBC KCTV3,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+KBS1,http://mytv.dothome.co.kr/ch/public/1.php
+KBS2,http://mytv.dothome.co.kr/ch/public/3.php
+EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+JTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
+KBSDrama,http://mytv.dothome.co.kr/ch/catv/2.php
+KBSJoy,http://mytv.dothome.co.kr/ch/catv/3.php
+KBSLIFE,http://mytv.dothome.co.kr/ch/catv/5.php
+KBSStory,http://mytv.dothome.co.kr/ch/catv/4.php
+KBSWorld,http://mytv.dothome.co.kr/ch/catv/7.php
+KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+KBCTV,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1946374378.m3u8
+KBCTV,https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+JUMBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+jobplus,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+TBSSeoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+C,http://112.175.51.214:1935/live/myStream/playlist.m3u8
+TJMBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+TJMBC2,http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
+KoreanSong,http://live.kytv.co.kr:8080/hls/stream.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+TJBSBS,http://1.245.74.5:1935/live/tv/chunklist_w1321158460.m3u8
+CJBSBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+BTN,http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+韩·TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+韩·KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+韩·EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩·EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩·EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩·NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+MBC综合频道[1280*720],http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+SBSCJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+EBS第频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+EBS二频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+ABNHD,https://vod2.abn.co.kr/IPHONE/abn.m3u8
+CJOnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+GSShop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+CJOnStyle+,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+KBSLiveCamDokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u
+Mubeat,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
+BBSTV,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+NBS1,https://media.joycorp.co.kr:4443/live/live_360p/playlist.m3u8
+EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+韩国BBS ,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+韩国BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+韩国-BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 韩国EBS第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+韩国EBS加二频道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韩国EBS加一频道,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+韩国KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/definst/dokdo_300.stream/playlist.m3u8
+KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+韩国中央,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+JTV,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
 
 iHOT频道,#genre#
 iHOT 爱喜剧,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -2431,6 +2459,33 @@ YY电影台5,http://120.77.28.4:8648/yy.php?id=24066336
 中二日记搞笑日常更新,http://maomao.kandiantv.cn/douyu1.php?id=9505575
 
 韩国女团,#genre#
+00,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cics5f7og65l7400ilo0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+0,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cf4up43c77uaf3l9q61g&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+1,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f2e0000c168k29lbce321ps0e30&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+2,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ckhor8rc77udh8cjbnng&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+3,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000chhtifrc77u4qbblddbg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+4,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cea4aobc77u40bs4m560&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+5,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cdqa4ibc77u9qo3e6kcg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+6,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cdqdia3c77u6jef0lcj0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+7,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300f7a0000bsb81c6cmo5cfurbeon0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+8,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cjafrsbc77u9f174pvj0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+9,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cm7v513c77u7le7lkoqg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+10,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000capcotrc77u4a2lm3j2g&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+11,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cmog71bc77u0ct76qgu0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+12,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ca70strc77u4d69n89t0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+13,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cij3l0jc77u3icn4a5f0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+14,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c53lp4jc77ucg5itrtgg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+15,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300f310000bqai155omciggqmbjs10&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+18,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cea1cmjc77u6oags3i6g&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+19,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cj574fjc77u6kmde8830&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+21,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000caiv8u3c77uclsl616i0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+22,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ch3vhqjc77u1uolbon1g&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+23,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000citu8rvog65k6lms6p9g&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+24,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c45srlbc77u7un1eeoeg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+26,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cdfl5vrc77u84a2ndsog&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+鸟叔dadey,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cfqraijc77u7k67gk2n0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+鸟叔江南style,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cfqqvubc77u1shdk2990&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+
 韩国女团01,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
 韩国女团02,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
 韩国女团03,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
