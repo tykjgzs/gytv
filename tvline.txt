@@ -1759,7 +1759,7 @@ KBS World,http://mytv.dothome.co.kr/ch/catv/7.php
 EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 MBN,http://mytv.dothome.co.kr/ch/catv/54.php
 GCN,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
-????,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+Good,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 ABN TV,https://vod2.abn.co.kr/IPHONE/abn.m3u8
 KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
 EBS Kids,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
@@ -1813,15 +1813,11 @@ Elgourmet MX,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477748.ts
 Fight Sports,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476875.ts
 Hits,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476872.ts
 Indosiar,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476858.ts
-indosiar hd 备,https://epg.pw/stream/a609a947ea618c7e1828530342beddfa619757537ccc29aaca68690c45ead16e.m3u8
 Inews,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476866.ts
-inews tv备,https://epg.pw/stream/8921fe2e170707193374849b7edb471d150831b6ab6e53ccf95706bf6cbe5fd2.ctv
 Kompas Tv,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476862.ts
 Metro Tv,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476861.ts
 Music Tv,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476876.ts
-music tv备,https://epg.pw/stream/5e924182fcf64ed20bf53c9b7b603ca50e3c671d9c9163557ec3a5d545d159b1.m3u8
 RCTI,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476849.ts
-rcti hd 备,https://epg.pw/stream/d4c3be2b5a0935ae299ba15158f9c6bf94e6478be507d78557754f855bdb5c9a.ctv
 Thrill,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476870.ts
 thrill备,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/512203.ts
 Trans Tv,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476857.ts
