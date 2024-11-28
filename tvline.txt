@@ -1755,6 +1755,118 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 
 朝鲜族TV,#genre#
+KBS World,http://mytv.dothome.co.kr/ch/catv/7.php
+EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+MBN,http://mytv.dothome.co.kr/ch/catv/54.php
+GCN,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
+????,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+ABN TV,https://vod2.abn.co.kr/IPHONE/abn.m3u8
+KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
+EBS Kids,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+EBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php
+KBS Life,http://mytv.dothome.co.kr/ch/catv/5.php
+KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
+KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
+KBS1,http://mytv.dothome.co.kr/ch/public/1.php
+KBS2,http://mytv.dothome.co.kr/ch/public/3.php
+GCN24 Korean,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+GCN24 Korean,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
+MBC Daejeon,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+MBC Chuncheon,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+RedBull,http://mytv.dothome.co.kr/ch/catv/61.php
+ABN,https://vod2.abn.co.kr/IPHONE/abn.m3u8
+Dea kids,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+CNA,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+EBS2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+KBS 2,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477559.ts
+KBS Dram,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477557.ts
+KBS JOY,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477560.ts
+KBS 월드,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476563.ts
+KBS 코리아,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476560.ts
+KBSN스포츠,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476558.ts
+MBC,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477569.ts
+MBC EVERY1,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477558.ts
+MNET,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477532.ts
+OCN,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477567.ts
+OCN movies,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477568.ts
+SBS,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477533.ts
+SBS PULS,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477562.ts
+SBS스포츠,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476557.ts
+SPOTV,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477535.ts
+SpoTV,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/482155.ts
+SPOTV2,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477565.ts
+Toonivers,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477563.ts
+YTN,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476561.ts
+주식회사 매일방송,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476562.ts
+Bbc Earth,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476670.ts
+Antv,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476859.ts
+antv 备,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/512198.ts
+Berita Satu,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476865.m3u8
+Cartoon Network,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476877.ts
+Celestial Classic Movie,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476878.ts
+Celestial Movies,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476869.ts
+celestial movies 备,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/512202.ts
+Cnn Indonesia,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476863.ts
+Elgourmet MX,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477748.ts
+Fight Sports,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476875.ts
+Hits,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476872.ts
+Indosiar,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476858.ts
+indosiar hd 备,https://epg.pw/stream/a609a947ea618c7e1828530342beddfa619757537ccc29aaca68690c45ead16e.m3u8
+Inews,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476866.ts
+inews tv备,https://epg.pw/stream/8921fe2e170707193374849b7edb471d150831b6ab6e53ccf95706bf6cbe5fd2.ctv
+Kompas Tv,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476862.ts
+Metro Tv,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476861.ts
+Music Tv,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476876.ts
+music tv备,https://epg.pw/stream/5e924182fcf64ed20bf53c9b7b603ca50e3c671d9c9163557ec3a5d545d159b1.m3u8
+RCTI,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476849.ts
+rcti hd 备,https://epg.pw/stream/d4c3be2b5a0935ae299ba15158f9c6bf94e6478be507d78557754f855bdb5c9a.ctv
+Thrill,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476870.ts
+thrill备,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/512203.ts
+Trans Tv,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476857.ts
+Tv One,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476860.ts
+tv one 备,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/512199.ts
+Tvri,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476864.ts
+SCTV,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476855.ts
+AXN HD,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477730.ts
+paramount,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602243.ts
+mycinema,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602242.ts
+crimeinvestigation,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602241.ts
+galaxy,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602240.ts
+dreamworks,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602239.ts
+vision prime,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602235.ts
+useesport1,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602233.ts
+useesport2,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602234.ts
+tvn movie,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602232.ts
+spotv1,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602227.ts
+spotv2,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602231.ts
+sportstar4,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602226.ts
+soccer,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602225.ts
+rock ent,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602223.ts
+rock action,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602219.ts
+nicklodeeon,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602218.ts
+fmn,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602216.ts
+mnc sport 1,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602214.ts
+mnc sport 2,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602215.ts
+hits movie,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602212.ts
+history,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602207.ts
+hbo hits,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602206.ts
+hbo,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602196.ts
+cbeebies,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602194.ts
+bein sport 1,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602192.ts
+animax,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602191.ts
+rtv,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602188.ts
+net,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602187.ts
+mnc,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602186.ts
+kompastv,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602179.ts
+jaktv,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602177.ts
+gtv,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602175.ts
+ccm,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602170.ts
+nat geo wild,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602169.ts
+k plus lnd,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602167.ts
+axn,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602163.ts
+Axn,http://hotelplay.net/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476871.ts
 
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 延边卫视,https://live.ybtvyun.com/video/s10006-2f92b9e0b123/index.m3u8
