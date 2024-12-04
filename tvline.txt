@@ -58,24 +58,6 @@ CCTV-16,http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
 CCTV-17,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000303/index.m3u8?IASHttpSessionId=
 
 
-CCTV-1,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-1-CQ
-CCTV-2,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-2-CQ
-CCTV-3,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-3-CQ
-CCTV-4,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-4-CQ
-CCTV-5,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-5-CQ
-CCTV-5+,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-5PLUS-CQ
-CCTV-6,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-6-CQ
-CCTV-7,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-7-CQ
-CCTV-8,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-8-CQ
-CCTV-9,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-9-CQ
-CCTV-10,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-10-CQ
-CCTV-11,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-11-CQ
-CCTV-12,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-12-CQ
-CCTV-13,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-13-CQ
-CCTV-14,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-14-CQ
-CCTV-15,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-15-CQ
-CCTV-16,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-16-CQ
-CCTV-17,http://cqshushu.us.kg:2086/gitv.php?id=G_CCTV-17-CQ
 
 
 CCTV-1,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000001
