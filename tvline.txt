@@ -141,12 +141,29 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 
+CCTV-1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8668&tk=7877e7cc41c7
+CCTV-2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1610&tk=7877e7cc41c7
+CCTV-3,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0235&tk=7877e7cc41c7
+CCTV-4,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0938&tk=7877e7cc41c7
+CCTV-5,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4222&tk=7877e7cc41c7
+CCTV-5+,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3327&tk=7877e7cc41c7
+CCTV-6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2271&tk=7877e7cc41c7
+CCTV-7,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7018&tk=7877e7cc41c7
+CCTV-8,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5722&tk=7877e7cc41c7
+CCTV-9,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7226&tk=7877e7cc41c7
+CCTV-10,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7047&tk=7877e7cc41c7
+CCTV-11,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8360&tk=7877e7cc41c7
+CCTV-12,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5197&tk=7877e7cc41c7
+CCTV-13,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2365&tk=7877e7cc41c7
+CCTV-14,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6570&tk=7877e7cc41c7
+CCTV-15,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4500&tk=7877e7cc41c7
+CCTV-16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6941&tk=7877e7cc41c7
+CCTV-17,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5548&tk=7877e7cc41c7
 
 
 
 
 
-CCTV-1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8668&tk=7877e7cc41c7CCTV-2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1610&tk=7877e7cc41c7CCTV-3,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0235&tk=7877e7cc41c7CCTV-4,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0938&tk=7877e7cc41c7CCTV-5,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4222&tk=7877e7cc41c7CCTV-5+,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3327&tk=7877e7cc41c7CCTV-6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2271&tk=7877e7cc41c7CCTV-7,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7018&tk=7877e7cc41c7CCTV-8,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5722&tk=7877e7cc41c7CCTV-9,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7226&tk=7877e7cc41c7CCTV-10,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7047&tk=7877e7cc41c7CCTV-11,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8360&tk=7877e7cc41c7CCTV-12,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5197&tk=7877e7cc41c7CCTV-13,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2365&tk=7877e7cc41c7CCTV-14,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6570&tk=7877e7cc41c7CCTV-15,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4500&tk=7877e7cc41c7CCTV-16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6941&tk=7877e7cc41c7CCTV-17,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5548&tk=7877e7cc41c7
 
 
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
